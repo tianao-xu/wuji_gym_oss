@@ -8,7 +8,10 @@ physics_engine: ${..physics_engine}
 
 # if given, will override the device setting in gym.
 env: 
-  numEnvs: ${resolve_default:4096,${...num_envs}}
+  # CHANGE the number of envs here 
+  # numEnvs: ${resolve_default:4096,${...num_envs}}
+  numEnvs: ${resolve_default:25,${...num_envs}}
+
   numObservations: None  # this will be overwritten in robot_hand.py
   numStates: None  # this will be overwritten in robot_hand.py
   numActions: None  # define in child config
@@ -16,7 +19,8 @@ env:
   episode_length_s: 10  # episode length in seconds
   aggregate_mode: True  # provides a "modest performance boost", see isaacgym/docs/programming/physics.html
 
-  object_type: ["block"]  # block, egg, pen, sphere, ... (check asset_files_dict of robot_hand.py for all options)
+  # START from sphere first 
+  object_type: ["sphere"]  # block, egg, pen, sphere, ... (check asset_files_dict of robot_hand.py for all options)
   use_relative_control: False
   relative_control_speed_scale: 5.0  # 5 rad/s max joint rotation speed
 

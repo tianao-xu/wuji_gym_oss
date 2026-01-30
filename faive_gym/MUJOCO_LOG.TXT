@@ -1,0 +1,24 @@
+Wed Jan 28 17:30:57 2026
+WARNING: File size over 2GB is not supported. File: '/home/tianaoxu/wuji_ws/description/wuji-hand-description-0.2.0/mjcf'
+
+Wed Jan 28 17:31:03 2026
+WARNING: File size over 2GB is not supported. File: '/home/tianaoxu/wuji_ws/description/wuji-hand-description-0.2.0'
+
+Wed Jan 28 17:33:09 2026
+WARNING: File size over 2GB is not supported. File: '/home/tianaoxu/gym_ws/faive_gym_oss/assets/faive_hand_p0'
+
+Wed Jan 28 17:33:27 2026
+WARNING: File size over 2GB is not supported. File: '/home/tianaoxu/gym_ws/faive_gym_oss/assets/faive_hand_p0'
+
+Wed Jan 28 17:33:28 2026
+WARNING: File size over 2GB is not supported. File: '/home/tianaoxu/gym_ws/faive_gym_oss/assets/urdf'
+
+Wed Jan 28 17:33:29 2026
+WARNING: File size over 2GB is not supported. File: '/home/tianaoxu/gym_ws/faive_gym_oss/assets/objects_dext_manip'
+
+Wed Jan 28 17:33:30 2026
+WARNING: File size over 2GB is not supported. File: '/home/tianaoxu/gym_ws/faive_gym_oss/assets/mjcf'
+
+Wed Jan 28 17:33:32 2026
+WARNING: File size over 2GB is not supported. File: '/home/tianaoxu/gym_ws/faive_gym_oss/assets/faive_hand_p0'
+
